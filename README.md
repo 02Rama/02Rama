@@ -107,11 +107,7 @@ Artificial Intelligence and Data Science graduate with a strong academic record 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=02Rama&show_icons=true&theme=radical&count_private=true" alt="Rama's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02Rama&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+>
 
 ---
 
