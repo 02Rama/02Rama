@@ -1,7 +1,7 @@
 # Hello, I'm Rama!🐬
 ### Reducing dRAMA in data, one algorithm at a time📊
 
-> *"Life's too short for bad data"*🌊
+> *"Life's too short for bad data"* 🌊
 
 📍 Amman, Jordan | 🎓 B.Sc. in AI & Data Science 
 
