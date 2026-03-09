@@ -105,9 +105,7 @@ Artificial Intelligence and Data Science graduate with a strong academic record 
   </a>
 </p>
 
----
 
->
 
 ---
 
